@@ -33,7 +33,7 @@
 
 
 
-a{
+.brief__link{
   font-family: 'Inter-Regular','Arial', sans-serif;
 }
 
@@ -73,7 +73,7 @@ width: 80%;
   margin: auto;
 }
 
-.paragraph{
+.main-text__paragraph{
   font-family: 'Inter-Regular','Arial', sans-serif;
   border: 1px solid #008000;
   line-height: 34px;
@@ -86,7 +86,7 @@ width: 80%;
   margin-top: 0;
 }
 
-.span-accent{
+.main-text__span-accent{
   font-family: 'Inter-Bold','Arial', sans-serif;
 }
 
