@@ -1,0 +1,10 @@
+.section-title {
+    width: 60%;
+    margin: 0 auto;
+    font-family: 'Inter-SemiBold', 'Arial', sans-serif;
+    font-size: 60px;
+    line-height: 1.15;
+    text-align: center;
+    border: 1px solid #0000ff;
+}
+
