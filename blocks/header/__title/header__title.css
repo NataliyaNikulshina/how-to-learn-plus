@@ -6,4 +6,6 @@
     font-size: 102px;
     font-family: 'Inter-SemiBold', 'Arial', sans-serif;
     max-width: 730px;
+    z-index: 2;
+    margin: 0;
 }
