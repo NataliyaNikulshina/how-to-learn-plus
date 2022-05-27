@@ -3,4 +3,8 @@
     line-height: 25px;
     font-size: 18px;
     margin: 18px 0;
+    position: absolute;
+    bottom: 18px;
+    left: 0;
+    margin-top: 18px;
 }
