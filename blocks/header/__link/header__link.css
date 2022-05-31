@@ -2,6 +2,7 @@
     text-decoration: none;
     color: #2F80ED;
     transition: opacity .5s linear;
+    
 }
 
 .header__link:hover {
